@@ -65,7 +65,7 @@ const quoteElement = document.querySelector('#quote')
 const authorElement = document.querySelector('#author')
 const button = document.querySelector('#button')
 
-const urlApi = 'https://api.api-ninjas.com/v1/quotes?category=computers'
+const urlApi = 'https://api.api-ninjas.com/v1/quotes?category=dreams'
 const keyApi = 'l69l2RTUm0UfAmSOIYzLTQ==uxBjiCYua8DS9631'
 
 const getQuote = () => {
